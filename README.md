@@ -13,5 +13,5 @@
 - 🔭 I’m currently working on: Developing an AI tutor.
 - 🏫 I’m currently learning: Advanced Python, Docker, and Automation.
 - 🆘 I’m looking to collaborate on: Full Stack, Game, or AI projects.
-- ⚡ Fun fact: I practice Tai Chi ☯, 🏋🏾‍♀️ and 🎮.
+- ⚡ Fun fact: I practice Tai Chi ☯,I 🏋🏾‍♀️ and enjoy playing 🎮.
 - 💬 Ask me about my favorite food, static streches, or 🍵.
