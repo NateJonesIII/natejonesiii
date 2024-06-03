@@ -1,6 +1,6 @@
-# natejonesiii
+# Welcome 👋🏾
 
-## Welcome to my page! I'm Nate Jones 👋🏾
+##  Thanks for the visit!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=natejonesiii)
 
