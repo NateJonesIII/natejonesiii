@@ -5,6 +5,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=natejonesiii)
 
 ![](./img/hello.webp/)
+<img src="./img/hello.webp" width="200" height="200" alt="Hello GIF" />
 
 ## About Me
 
@@ -33,11 +34,8 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="36" height="36" alt="Google Cloud Platform" /></a>
-
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png" width="36" height="36" alt="Azure Cloud" /></a>
-
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-
 </p>
 
 ## Reach out
