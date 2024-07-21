@@ -4,8 +4,8 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=natejonesiii)
 
-![](./img/hello.webp/)
-<img src="./img/hello.webp" width="200" height="200" alt="Hello GIF" />
+<!-- ![](./img/hello.webp) -->
+<img src="./img/hello.webp" width="250" height="250" alt="Hello GIF" />
 
 ## About Me
 
