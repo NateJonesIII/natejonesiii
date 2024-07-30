@@ -46,4 +46,4 @@
 
 ## Reach out
 
-- 📩 How to reach me: [Email](inquire@devnjones.me) | [LinkedIn](https://linkedin.com/in/nathaniel-jones).
+- 📩 How to reach me: [Email](inquire@devnjones.me)
