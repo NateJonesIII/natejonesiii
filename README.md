@@ -13,7 +13,6 @@
 - 📜 Graduate of [University of Miami](https://bootcamp.miami.edu/coding/): [FullStack Web Developer](https://www.credential.net/ecb74684-5872-405d-883a-69eb7b734be4) program.
 - 🔭 I’m currently working on: Developing an AI based Cover Letter generator and an event management system.
 - 🏫 I’m currently enhancing my devops skillset in Advanced Python, Docker, Google Cloud Platform (GCP), Amazon Web Services (AWS).
-- Certifications include: AWS CCP CLF-C02 and CompTIA Security+ SY0-701
 - 🆘 I’m interested in collaboration on: Full Stack, Game Development, or AI projects.
 - ⚡ Fun fact: I practice Tai Chi ☯, I like to Lift🏋🏾‍♀️, and enjoy playing 🎮.
 - 💬 Ask me about my favorite food, tech, or 🍵.
@@ -45,6 +44,11 @@
 </a>
 </p>
 
+## Certifications
+- [Credly Links](https://devnjones.me/](https://www.credly.com/users/nathaniel-jones.fddc43c2)
+- [SYO-701](https://www.credly.com/badges/a834a6f6-1172-4007-a896-040519695c42/linked_in_profile)
+- [CLF-02](https://www.credly.com/badges/4a6e7f48-8062-4875-ae37-70e6657c6f24/public_url)
+- [IBM-ICC](https://www.credly.com/badges/41de0794-3a8c-44c2-b05e-2e5c08d6ccf5)
 ## Reach out
 
 - 📩 How to reach me: [Email](inquire@devnjones.me)
