@@ -49,6 +49,7 @@
 - [SYO-701](https://www.credly.com/badges/a834a6f6-1172-4007-a896-040519695c42/linked_in_profile)
 - [CLF-02](https://www.credly.com/badges/4a6e7f48-8062-4875-ae37-70e6657c6f24/public_url)
 - [IBM-ICC](https://www.credly.com/badges/41de0794-3a8c-44c2-b05e-2e5c08d6ccf5)
+- [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/NateJonesIII/F4FBA5E66DFE656C?sharingId=41E12DD3348178AD)
 ## Reach out
 
 - 📩 How to reach me: [Email](inquire@devnjones.me)
