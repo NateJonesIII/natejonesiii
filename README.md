@@ -5,7 +5,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=natejonesiii)
 
 <!-- ![](./img/hello.webp) -->
-<img src="./img/hello.webp" width="250" height="250" alt="Hello GIF" />
+<img src="./img/hello.webp" width="200" height="200" alt="Hello GIF" />
 
 ## About Me
 
@@ -41,6 +41,16 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="36" height="36" alt="MongoDB" />
 </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" 
+       width="36" 
+       height="36" 
+       alt="Terraform" />
+</a>
+
+
+
+
 </p>
 
 ## Certifications
