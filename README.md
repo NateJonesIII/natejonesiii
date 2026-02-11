@@ -1,11 +1,9 @@
 # Welcome 👋🏾
 
-## Thanks for the visit!
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=natejonesiii)
 
 <!-- ![](./img/hello.webp) -->
-<img src="./img/hello.webp" width="200" height="200" alt="Hello GIF" />
+<img src="./img/hello.webp" width="150" height="150" alt="Hello GIF" />
 
 ## About Me
 
